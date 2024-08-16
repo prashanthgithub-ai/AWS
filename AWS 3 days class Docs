@@ -1,0 +1,40 @@
+                                                       BASIC ON CLOUD
+
+what is cloud and cloud computing ?
+by using cloud we can access the data applications from internet at anytime in anyway,
+cloud computing is the delivery of computing services like stronge and newtwoking.
+
+cloud computing classifed into  two  types
+1)service models: services models again divded in to 3 types,
+1=>SAAS : SAAS Stands for software as a service  here everythings is automated.
+          EX:EMAILS
+2=> PAAS  : PAAS stands for Paltfrom as a services in paas we can run over code without an  infrastructure.
+          Ex: lamdba.It allows multiple Organizations to use some Cloud to 
+3=> IAAS : IAAS as stand for infrastructure as a services in this model cloud provided  services like,
+             S3 (stronge ,database ,networking)
+2)Deployment models : deployment model is used to deploy your applications to cloud or serves, deployment model is classfied into 4 types,
+1=>Private cloud : A private cloud is a cloud computing environment that is exclusively dedicated to a single organization  private cloud as high security
+
+2-=>Public cloud : Public clouds are managed by third Parties any one can access public cloud as low security commpared to other cloud.
+                EX: AWS,GCP, AND AZUREE E.T.C.
+
+3=>Hybrid cloud : Hybrid cloud is the Combination of both Public and private cloud. If the services are running on public  allowing data and applications to be shared between them. 
+
+4=>Community cloud: It allows multiple Organizations to use some Cloud to Store the data
+
+                                                            Software Developement life Cycle 
+
+  WHAT IS Software Developement life Cycle ?
+ The Software Development Life Cycle (SDLC) is a systematic process used by software developers to design, develop, test, and deploy software applications to run (SDLC)  we need follow belown steps
+1)Planning:To define the project scope, identify resources, and create a high-level project plan.
+2)Defining  :you clearly define the requirements interms of Document   i.e Software requirement Specification Document -they will maintain the all the requirements of the application in this Document   
+3)Design:.To transform the requirements into a blueprint for the software’s architecture and design.
+4)implementation and developing: developers are writting/Devloping the code then they are checkin their code in centalized repository.
+5)building :After developers checkin the code into the repository we are trying to checkout the code and  build the code.
+6)Testing: To identify and fix defects or bugs in the software and ensure it meets the specified requirements.
+7)deploying: deploying  into prodction servres
+8)Monitoring : monitoring the application on prodction server.
+
+
+What is the Waterfall :waterfall model  is old  method the manily disavantage of this method it's  no feedback.
+x
