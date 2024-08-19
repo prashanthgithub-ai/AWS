@@ -36,5 +36,25 @@ cloud computing classifed into  two  types
 8)Monitoring : monitoring the application on prodction server.
 
 
-What is the Waterfall :waterfall model  is old  method the manily disavantage of this method it's  no feedback.
-x
+What is the Waterfall :waterfall model  is old  method the manily disavantage of this method it's no feedback.
+
+AGILE METHODOLOGIES : IN AGILE Methood we are devolping application in the from  spring each spring we can get feedback with in 7 days.
+
+                                            DEVOPS
+DEVOPS is basically culture that improves the org abillity to deliver their applications.
+DevOps short for Development and Operations is a set of practices that combines software development (Dev) and IT operations (Ops)
+The goal is to shorten the systems development life cycle and provide continuous delivery with high software quality.
+THE STEPS ON DEVOPS LIFE CYCLE
+1)GIT : We get code form github rep.
+2)Maven : maven is a build tool used for check test cases
+Ex: mvn test, mvn clean packages e.t.c.
+3)NEXUS : NEXUS is store Artifact .
+4) TESTING:By using sonarqube we can check code coverage.
+5)CI/CD pipeline :Continuous Integration (CI): Developers regularly merge their code changes into a central repository, after which automated builds and tests are run. 
+This helps catch bugs early in the development process.
+Continuous Delivery (CD): Extends Continuous Integration by automatically deploying all code changes to a testing or production environment after the build stage. 
+This ensures that software can be released reliably at any time.
+6)DEPLOY :  we can deploy your apllications in diffrent paltfroms like AZURE CLOUD, AWS clous, GCP.E.T.C.
+
+
+
